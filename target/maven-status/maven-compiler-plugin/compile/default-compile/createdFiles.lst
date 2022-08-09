@@ -1,0 +1,6 @@
+pl\polsl\adam\fudala\tvprog\model\Time.class
+pl\polsl\adam\fudala\tvprog\model\Channel.class
+pl\polsl\adam\fudala\tvprog\model\Program.class
+pl\polsl\adam\fudala\tvprog\view\Show.class
+pl\polsl\adam\fudala\tvprog\model\IncorrectHourException.class
+pl\polsl\adam\fudala\tvprog\controller\Main.class
